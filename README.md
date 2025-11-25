@@ -25,7 +25,7 @@ pip install colorama
 Opción 2 (Recomendada): Instalar desde requirements.txt
 pip install -r requirements.txt
 
-▶️ Ejecución
+▶️ Ejecución:
 python main.py
 
 Las contribuciones, ideas o mejoras son bienvenidas.🤝
