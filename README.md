@@ -22,22 +22,31 @@ Características principales:
 ✔ Colores en consola gracias a colorama
 
 
+
+
+
 🔧 Instalación y dependencias
 
 Antes de ejecutar el proyecto, instalá las dependencias necesarias.
 Este proyecto requiere colorama.
 
-Opción 1: Instalar manualmente
+-Opción 1: Instalar manualmente
 
 pip install colorama
 
-Opción 2 (Recomendada): Instalar desde requirements.txt
+-Opción 2 (Recomendada): Instalar desde requirements.txt
 
 pip install -r requirements.txt
+
+
 
 ▶️ Ejecución:
 
 python main.py
+
+
+
+
 
 
 Las contribuciones, ideas o mejoras son bienvenidas.🤝
