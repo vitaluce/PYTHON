@@ -58,3 +58,5 @@ Las contribuciones, ideas o mejoras son bienvenidas.🤝
 Este proyecto no tiene licencia específica por ahora.
 
 Puedes usarlo, modificarlo o mejorarlo libremente.
+
+Desarrollador/a: Lusbelys Marquez
